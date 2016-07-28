@@ -10,10 +10,13 @@ namespace Grades
     {
         static void Main(string[] args)
         {
+
+           
+            
             //SpeechSynthesizer synth = new SpeechSythesizer();
             //synth.Speak("Hello, this is the grade book program"); 
 
-
+            
             GradeBook book = new GradeBook();
             book.AddGrade(91);
             book.AddGrade(89.5f);
@@ -25,7 +28,7 @@ namespace Grades
             Console.WriteLine("average Grade: " + stats.AverageGrade);
             Console.WriteLine("highest Grade: " + stats.HighestGrade);
             Console.WriteLine("lowest Grade: " + stats.LowestGrade);
-
+            
             //book = new GradeBook(); //creates second instance of GradeBook only have access to this instance
             //because it only points to book
             //book.AddGrade(75);
