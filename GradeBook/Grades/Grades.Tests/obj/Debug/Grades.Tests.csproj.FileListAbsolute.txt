@@ -1,0 +1,7 @@
+C:\Users\gtidd000\Desktop\Csharp\GradeBook\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\gtidd000\Desktop\Csharp\GradeBook\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\gtidd000\Desktop\Csharp\GradeBook\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\gtidd000\Desktop\Csharp\GradeBook\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\gtidd000\Desktop\Csharp\GradeBook\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Users\gtidd000\Desktop\Csharp\GradeBook\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Users\gtidd000\Desktop\Csharp\GradeBook\Grades\Grades.Tests\bin\Debug\Grades.pdb
